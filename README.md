@@ -1,6 +1,7 @@
 # toy-redis
 
-A toy Redis clone in pure Java, written by hand to learn, as part of my [Java roadmap](https://tjanvier.org/posts/java-learning-roadmap).
+A toy Redis clone in pure Java, written by hand to learn, as part of
+my [Java roadmap](https://tjanvier.org/posts/java-learning-roadmap).
 
 No frameworks, no AI-written code. The real `redis-server` is the spec.
 
